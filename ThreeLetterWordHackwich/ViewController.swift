@@ -45,6 +45,8 @@ class ViewController: UIViewController {
         print(counter)
         currentLetter = letters[counter]
         currentLetterLabel.text = currentLetter
+        //comment
+        
     }
     
 }
